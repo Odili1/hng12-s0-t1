@@ -41,9 +41,9 @@ Returns:
 
 ```json
 {
-  "email": string,
+  "email": "string",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": string
+  "github_url": "https://github.com/Odili1/hng12-s0-t1"
 }
 ```
 
